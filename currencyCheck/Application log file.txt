@@ -1,0 +1,4 @@
+Currency Converter application opened!
+User pressed the update rates table button.
+User pressed the rates table button.
+Currency Converter application closed!
